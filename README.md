@@ -1,6 +1,10 @@
+# 👺 Mike Mtz.
 ### Hello there!
-Excited to be here 🤠
-My hobbies are swimming🏊‍♂️ listening to music🎧 and playing video games🎮
+- Excited to be here 🤠
+#### My hobbies are: 
+- Swimming🏊‍♂️ 
+- Listening to music🎧 
+- Playing video games🎮
 
 <!--
 **MikeMtzH/MikeMtzH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
